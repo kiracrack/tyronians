@@ -1,0 +1,19 @@
+ 
+ 
+ 
+ frmSystemDownloader.txtFileName.Text = rst("downloadurl").ToString
+ frmSystemDownloader.txtversion.Text = rst("version").ToString
+ frmSystemDownloader.Show()
+
+
+DROP TABLE IF EXISTS `coffeecup`.`tblclientsystemupdate`;
+CREATE TABLE  `coffeecup`.`tblclientsystemupdate` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `details` text,
+  `version` varchar(45) NOT NULL,
+  `downloadurl` text NOT NULL,
+  `features` text NOT NULL,
+  `password` text NOT NULL,
+  `active` tinyint(1) NOT NULL DEFAULT '1',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=latin1 ROW_FORMAT=DYNAMIC;

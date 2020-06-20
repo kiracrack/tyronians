@@ -1,0 +1,209 @@
+D:\My.Net\System Core\Tyronians\Client\Source code\bin\Debug\Tyronians.exe.config
+D:\My.Net\System Core\Tyronians\Client\Source code\obj\x86\Debug\Tyronians.exe
+D:\My.Net\System Core\Tyronians\Client\Source code\obj\x86\Debug\Tyronians.xml
+D:\My.Net\System Core\Tyronians\Client\Source code\obj\x86\Debug\Tyronians.pdb
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\Tyronians.exe.config
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\obj\x86\Debug\Tyronians.exe
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\obj\x86\Debug\Tyronians.xml
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\obj\x86\Debug\Tyronians.pdb
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\Tyronians.exe
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\Tyronians.pdb
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\Tyronians.xml
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\System.Data.DataSetExtensions.dll
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\System.Data.dll
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\System.Data.Linq.dll
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\System.Deployment.dll
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\System.dll
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\System.Drawing.dll
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\System.Management.dll
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\System.Messaging.dll
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\System.Xml.dll
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\obj\x86\Debug\MembershipForrm.vbprojResolveAssemblyReference.cache
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\obj\x86\Debug\Tyronians.frmMembershipForm.resources
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\obj\x86\Debug\Tyronians.frmAddChapter.resources
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\obj\x86\Debug\Tyronians.Resources.resources
+D:\My.Net\System Core\Tyronians\Membership Form\Source code\obj\x86\Debug\MembershipForrm.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Data.dll
+D:\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Deployment.dll
+D:\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.dll
+D:\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Drawing.dll
+D:\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Management.dll
+D:\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Messaging.dll
+D:\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Xml.dll
+D:\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmWelcomeMessage.resources
+D:\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmMembershipProfile.resources
+D:\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmGlobalSearch.resources
+D:\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmLicenseAgreement.resources
+D:\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmMembershipForm.resources
+D:\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmAddChapter.resources
+D:\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.Resources.resources
+D:\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\MembershipForrm.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\Tyronians Central.exe.config
+D:\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\Tyronians Central.exe
+D:\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\Tyronians Central.pdb
+D:\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\Tyronians Central.xml
+D:\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians Central.exe
+D:\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians Central.xml
+D:\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians Central.pdb
+D:\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmSystemDownloader.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmAccountTitleLedger.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmChartOfAccount.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmGLGroup.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmGLItem.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.Accounting.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmPostingPredefineGL.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmPostTransaction.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmTrialBalance.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmTrnAddItem.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmTrnGroup.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmTrnSettingsItems.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmTrnTitle.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmSystemDownloader.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.rptIDBack.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.rptIDFront.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmLocalChapter.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmPrintIDOption.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmWelcomeMessage.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmMembershipProfile.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmGlobalSearch.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmLicenseAgreement.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmMembershipForm.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmAddChapter.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmBatchCollection.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.frmCollectionReports.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians.Resources.resources
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\MembershipForrm.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians Central.exe.licenses
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\Tyronians Central.exe.config
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\Tyronians Central.exe
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\Tyronians Central.pdb
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\Tyronians Central.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.CodeParser.v18.1.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Data.v18.1.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraReports.v18.1.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Data.DataSetExtensions.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Data.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Data.Linq.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Deployment.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Drawing.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Management.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Messaging.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Windows.Forms.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Xml.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\System.Xml.Linq.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Data.v18.1.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraReports.v18.1.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians Central.exe
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians Central.xml
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\Tyronians Central.pdb
+C:\My Files\My.Net\System Core\Tyronians\Membership\Source code\obj\x86\Debug\MembershipForrm.vbprojResolveAssemblyReference.cache

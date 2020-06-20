@@ -1,0 +1,284 @@
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\STL.exe.config
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\STL.exe
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\STL.pdb
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\STL.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Data.v18.1.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraReports.v18.1.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\System.Data.DataSetExtensions.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\System.Data.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\System.Data.Linq.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\System.Deployment.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\System.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\System.Drawing.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\System.Management.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\System.Messaging.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\System.Windows.Forms.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\System.Xml.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\System.Xml.Linq.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Data.v18.1.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraReports.v18.1.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\bin\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\Interop.Shell32.dll
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.vbproj.ResolveComReference.cache
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.frmGroupSMS.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.frmMessageBox.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.frmTestingPost.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.frmPostResult.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.frmManualPosting.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.frmUsherManagement.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.frmMunicipal.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.frmSystemSettings.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.frmConnectionSetup.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.frmChangePIN.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.frmCategoryManagement.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.MainWindow.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.frmRegistration.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.Resources.resources
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.exe.licenses
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.exe
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.xml
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.pdb
+C:\My Files\My.Net\System Core\STL\STL\obj\x86\Debug\STL.vbprojResolveAssemblyReference.cache
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\STL.exe.config
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\STL.exe
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\STL.pdb
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\STL.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Data.v18.1.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraReports.v18.1.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\System.Data.DataSetExtensions.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\System.Data.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\System.Data.Linq.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\System.Deployment.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\System.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\System.Drawing.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\System.Management.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\System.Messaging.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\System.Windows.Forms.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\System.Xml.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\System.Xml.Linq.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Data.v18.1.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraReports.v18.1.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\bin\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\Interop.Shell32.dll
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.vbproj.ResolveComReference.cache
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmGroupSMS.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmMessageBox.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmTestingPost.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmPostResult.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmManualPosting.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmUsherManagement.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmMunicipal.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmSystemSettings.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmConnectionSetup.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmChangePIN.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmCategoryManagement.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.MainWindow.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmRegistration.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.Resources.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.exe.licenses
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.exe
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.xml
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.pdb
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmViewMessage.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmSubsCribers.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmAnalizeEntries.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmReloader.resources
+C:\My Files\My.Net\System Core\STL\Pioneer Management\STL\obj\x86\Debug\STL.frmWithdrawal.resources

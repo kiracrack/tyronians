@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BFF256BF-4E62-4124-BD52-A4CAF81924B4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TGP.My.MyApplication</StartupObject>
+    <RootNamespace>TGP</RootNamespace>
+    <AssemblyName>TGP Central</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>TGP Central.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>TGP Central.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>tgp-icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Office.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Pdf.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.PivotGrid.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Sparkline.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v18.1.UI, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGauges.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v18.1.Extensions, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.0.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Management">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Messaging">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Encription.vb" />
+    <Compile Include="Module\DXLibraries.vb" />
+    <Compile Include="Module\DXPrinting.vb" />
+    <Compile Include="Module\General Settings.vb" />
+    <Compile Include="Module\Printing.vb" />
+    <Compile Include="Module\UpdateEngine.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\frmFieldName.Designer.vb">
+      <DependentUpon>frmFieldName.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\frmFieldName.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\frmInformation.Designer.vb">
+      <DependentUpon>frmInformation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\frmInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\frmUserAccounts.Designer.vb">
+      <DependentUpon>frmUserAccounts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\frmUserAccounts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\SMS\frmViewMessage.Designer.vb">
+      <DependentUpon>frmViewMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\SMS\frmViewMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\SMS\frmGroupSMS.Designer.vb">
+      <DependentUpon>frmGroupSMS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\SMS\frmGroupSMS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\SMS\frmMessageBox.Designer.vb">
+      <DependentUpon>frmMessageBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\SMS\frmMessageBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\frmCouncil.Designer.vb">
+      <DependentUpon>frmCouncil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\frmCouncil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\frmChapter.Designer.vb">
+      <DependentUpon>frmChapter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\frmChapter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\frmConnectionSetup.Designer.vb">
+      <DependentUpon>frmConnectionSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\frmConnectionSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\MainWindow.Designer.vb">
+      <DependentUpon>MainWindow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\MainWindow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\ConectionSetup.vb" />
+    <Compile Include="Module\Library.vb" />
+    <Compile Include="Module\SercureData.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="Settings\frmFieldName.resx">
+      <DependentUpon>frmFieldName.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\frmInformation.resx">
+      <DependentUpon>frmInformation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\frmUserAccounts.resx">
+      <DependentUpon>frmUserAccounts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\SMS\frmViewMessage.resx">
+      <DependentUpon>frmViewMessage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\SMS\frmGroupSMS.resx">
+      <DependentUpon>frmGroupSMS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\SMS\frmMessageBox.resx">
+      <DependentUpon>frmMessageBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\frmCouncil.resx">
+      <DependentUpon>frmCouncil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\frmChapter.resx">
+      <DependentUpon>frmChapter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\frmConnectionSetup.resx">
+      <DependentUpon>frmConnectionSetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\MainWindow.resx">
+      <DependentUpon>MainWindow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.CustomInstaller.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlBulkLoader.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlClientFactory.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlCommand.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlCommandBuilder.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlConnection.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlConnectionStringBuilder.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlDataAdapter.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlDataReader.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlError.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlException.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlHelper.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlInfoMessageEventArgs.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlInfoMessageEventHandler.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlParameter.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlParameterCollection.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlRowUpdatedEventArgs.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlRowUpdatedEventHandler.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlRowUpdatingEventArgs.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlRowUpdatingEventHandler.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlScript.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlScriptErrorEventArgs.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlScriptErrorEventHandler.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlScriptEventArgs.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlStatementExecutedEventHandler.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlTransaction.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.Properties.Resources.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.Types.MySqlConversionException.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.Types.MySqlDateTime.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.Types.MySqlDecimal.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Shell32">
+      <Guid>{50A7E9B0-70EF-11D1-B75A-00A0C90564FE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blankimg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Card_32x32 %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BOUser_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paper-pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password protection.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hide password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tabs_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\001_57_Grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desktop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-paste-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-find-and-replace-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\system-lock-screen-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail-folder-inbox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notebook--pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notebook--minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-continue-000-top.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\system-settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\configure-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\system-settings1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer %282%29-a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture--minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture--pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2000px-Department_of_Education.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookmark-new-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user--plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_1097.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="e-games.ico" />
+    <Content Include="icons.ico" />
+    <Content Include="ofes-icon.ico" />
+    <Content Include="tgp-icon.ico" />
+    <None Include="Resources\Money Hot.png" />
+    <None Include="Resources\Revenue_32x32.png" />
+    <None Include="Resources\notebook--plus.png" />
+    <None Include="Resources\eye--arrow.png" />
+    <None Include="Resources\TopCustomers_32x32.png" />
+    <None Include="Resources\Team_32x32 %282%29.png" />
+    <None Include="Resources\arrow-curve-180-left.png" />
+    <None Include="Resources\key--minus.png" />
+    <None Include="Resources\key--arrow.png" />
+    <None Include="Resources\1501.png" />
+    <None Include="Resources\clock--pencil.png" />
+    <None Include="Resources\clock--minus.png" />
+    <None Include="Resources\cross.png" />
+    <None Include="Resources\182.png" />
+    <None Include="Resources\1811.png" />
+    <None Include="Resources\mails.png" />
+    <None Include="Resources\mail-forward-all.png" />
+    <None Include="Resources\mail--minus.png" />
+    <None Include="Resources\Action_Translate_32x32.png" />
+    <None Include="Resources\181.png" />
+    <None Include="Resources\Search.png" />
+    <None Include="Resources\search %284%29.png" />
+    <None Include="Resources\mail--arrow.png" />
+    <None Include="Resources\Mail_32x32 %282%29.png" />
+    <None Include="Resources\saturn.png" />
+    <None Include="Resources\properties_32x32 %283%29.png" />
+    <None Include="Resources\PublicFix_32x32 %282%29.png" />
+    <None Include="Resources\Customer_32x32 %282%29.png" />
+    <None Include="Resources\GeoPointMap_32x32.png" />
+    <None Include="Resources\DafualtFax_32x32.png" />
+    <None Include="Resources\BO_Localization_32x32.png" />
+    <None Include="Resources\AllowUsersToEditRanges_32x32.png" />
+    <None Include="Resources\BO_Organizations_Large.png" />
+    <None Include="Resources\Demo_Localization_Def_User_32x32.png" />
+    <None Include="Resources\BO_Opportunity_32x32.png" />
+    <None Include="Resources\contentImages_smallPic.png" />
+    <None Include="Resources\Article_32x32 %282%29.png" />
+    <None Include="Resources\print-32x32.png" />
+    <None Include="Resources\calendar-insert.png" />
+    <None Include="Resources\compile.png" />
+    <None Include="Resources\notebook--arrow.png" />
+    <None Include="Resources\mail.png" />
+    <None Include="Resources\150.png" />
+    <None Include="Resources\book.png" />
+    <None Include="Resources\kmines.png" />
+    <None Include="Resources\kmines-3.png" />
+    <None Include="Resources\applications-internet.png" />
+    <None Include="Resources\media-flash.png" />
+    <None Include="Resources\network-wireless-full.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

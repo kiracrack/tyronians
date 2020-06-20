@@ -1,0 +1,99 @@
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\OFES.exe.config
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\OFES.exe
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\OFES.pdb
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\OFES.xml
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\System.Data.dll
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\System.Deployment.dll
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\System.dll
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\System.Drawing.dll
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\System.Management.dll
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\System.Messaging.dll
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\System.Windows.Forms.dll
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\System.Xml.dll
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\Interop.Shell32.dll
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.vbproj.ResolveComReference.cache
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmSystemSettings.resources
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmConnectionSetup.resources
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmChangePassword.resources
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmCategoryManagement.resources
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmForgotPassword.resources
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.MainWindow.resources
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmRegistration.resources
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmLogin.resources
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.Resources.resources
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.exe
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.xml
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.pdb
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\System.Data.DataSetExtensions.dll
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\System.Data.Linq.dll
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\bin\Debug\System.Xml.Linq.dll
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmProgramManagement.resources
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmAccountsManagement.resources
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\OFES.exe.config
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\Interop.Shell32.dll
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.vbproj.ResolveComReference.cache
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.exe
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.xml
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.pdb
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\OFES.exe
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\OFES.pdb
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\OFES.xml
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\System.Data.dll
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\System.Data.Linq.dll
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\System.Deployment.dll
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\System.dll
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\System.Drawing.dll
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\System.Management.dll
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\System.Messaging.dll
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\System.Windows.Forms.dll
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\System.Xml.dll
+D:\Installer\Installer db\Thesis\OFES\OFES\bin\Debug\System.Xml.Linq.dll
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmAccountsManagement.resources
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmProgramManagement.resources
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmSystemSettings.resources
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmConnectionSetup.resources
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmChangePassword.resources
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmCategoryManagement.resources
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmForgotPassword.resources
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.MainWindow.resources
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmRegistration.resources
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmLogin.resources
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.Resources.resources
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.vbproj.GenerateResource.Cache
+D:\Installer\Installer db\Thesis\OFES\OFES\obj\x86\Debug\OFES.vbprojResolveAssemblyReference.cache
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\OFES.exe.config
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\Interop.Shell32.dll
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.vbproj.ResolveComReference.cache
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.exe
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.xml
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.pdb
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\OFES.exe
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\OFES.pdb
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\OFES.xml
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\System.Data.dll
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\System.Data.Linq.dll
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\System.Deployment.dll
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\System.dll
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\System.Drawing.dll
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\System.Management.dll
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\System.Messaging.dll
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\System.Windows.Forms.dll
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\System.Xml.dll
+D:\Installer\Installer db\NEW OFES\OFES\OFES\bin\Debug\System.Xml.Linq.dll
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.frmAccountsManagement.resources
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.frmProgramManagement.resources
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.frmSystemSettings.resources
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.frmConnectionSetup.resources
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.frmChangePassword.resources
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.frmCategoryManagement.resources
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.frmForgotPassword.resources
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.MainWindow.resources
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.frmRegistration.resources
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.frmLogin.resources
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.Resources.resources
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.vbproj.GenerateResource.Cache
+D:\Installer\Installer db\NEW OFES\OFES\OFES\obj\x86\Debug\OFES.frmTablePick.resources
+C:\My Files\My.Net\System Core\Thesis\OFES\OFES\obj\x86\Debug\OFES.frmTablePick.resources

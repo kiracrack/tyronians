@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <tblaccounts>
+    <Account_x0020_ID>10001</Account_x0020_ID>
+    <Fullname>WINTER BUGAHOD</Fullname>
+    <Position>PRESIDENT</Position>
+    <Address>DIPOLOG CITY</Address>
+    <Contact_x0020_No.>+639399023750</Contact_x0020_No.>
+    <Email_x0020_Address>winterbugahod@yahoo.com</Email_x0020_Address>
+    <Chapter>DIPOLOG CHAPTER</Chapter>
+    <Area>MINDANAO AREA</Area>
+    <Permission>ROOT</Permission>
+    <Registered_x0020_by>WINTER BUGAHOD</Registered_x0020_by>
+    <Date_x0020_Registered>July 14, 2013 11:10:35 PM</Date_x0020_Registered>
+  </tblaccounts>
+  <tblaccounts>
+    <Account_x0020_ID>10002</Account_x0020_ID>
+    <Fullname>ALVIN BUGAHOD</Fullname>
+    <Position>PRESIDENT</Position>
+    <Address>ZAMBOANGA CITY</Address>
+    <Contact_x0020_No.>+639999999999</Contact_x0020_No.>
+    <Email_x0020_Address>alvinbugahod@yahoo.com</Email_x0020_Address>
+    <Area>LUZON AREA</Area>
+    <Permission>ADMINISTRATOR</Permission>
+    <Registered_x0020_by>WINTER BUGAHOD</Registered_x0020_by>
+    <Date_x0020_Registered>July 14, 2013 11:08:12 PM</Date_x0020_Registered>
+  </tblaccounts>
+  <tblaccounts>
+    <Account_x0020_ID>10003</Account_x0020_ID>
+    <Fullname>IFUR SALIMBAGAT</Fullname>
+    <Position>PRESIDENT</Position>
+    <Address>DIPOLOG CITY</Address>
+    <Contact_x0020_No.>+639999999999</Contact_x0020_No.>
+    <Email_x0020_Address>ifursalimbagay@katipunanbank.com</Email_x0020_Address>
+    <Area>LUZON AREA</Area>
+    <Permission>STANDARED USER</Permission>
+    <Registered_x0020_by>ALVIN BUGAHOD</Registered_x0020_by>
+    <Date_x0020_Registered>July 14, 2013 11:08:32 PM</Date_x0020_Registered>
+  </tblaccounts>
+  <tblaccounts>
+    <Account_x0020_ID>10006</Account_x0020_ID>
+    <Fullname>DON JOHN FERNANDEZ</Fullname>
+    <Position>PRESIDENT</Position>
+    <Address>DIPOLOG CITY</Address>
+    <Contact_x0020_No.>+639999999999</Contact_x0020_No.>
+    <Email_x0020_Address>djfernandez@katipunanbank.com</Email_x0020_Address>
+    <Chapter>DIPOLOG CHAPTER</Chapter>
+    <Area>MINDANAO AREA</Area>
+    <Permission>STANDARED USER</Permission>
+    <Registered_x0020_by>ALVIN BUGAHOD</Registered_x0020_by>
+    <Date_x0020_Registered>July 14, 2013 11:15:23 PM</Date_x0020_Registered>
+  </tblaccounts>
+  <tblaccounts>
+    <Account_x0020_ID>10007</Account_x0020_ID>
+    <Fullname>JOVEL LANAT</Fullname>
+    <Position>VICE-PRESIDENT</Position>
+    <Address>SINDANGAN ZN</Address>
+    <Contact_x0020_No.>+639999999999</Contact_x0020_No.>
+    <Email_x0020_Address>jovelanat@katipunanbank.com</Email_x0020_Address>
+    <Area>MINDANAO AREA</Area>
+    <Permission>STANDARED USER</Permission>
+    <Registered_x0020_by>WINTER BUGAHOD</Registered_x0020_by>
+    <Date_x0020_Registered>July 15, 2013 12:02:33 AM</Date_x0020_Registered>
+  </tblaccounts>
+  <tblaccounts>
+    <Account_x0020_ID>10008</Account_x0020_ID>
+    <Fullname>SDSAD</Fullname>
+    <Position>SDSADSAD</Position>
+    <Address>SDASDASD</Address>
+    <Contact_x0020_No.>+63324324</Contact_x0020_No.>
+    <Email_x0020_Address>asd</Email_x0020_Address>
+    <Area>MINDANAO AREA</Area>
+    <Permission>STANDARED USER</Permission>
+    <Registered_x0020_by>WINTER BUGAHOD</Registered_x0020_by>
+    <Date_x0020_Registered>July 15, 2013 12:08:55 AM</Date_x0020_Registered>
+  </tblaccounts>
+</NewDataSet>

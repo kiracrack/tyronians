@@ -1,0 +1,37 @@
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\bin\Debug\IPM Service.exe.config
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\bin\Debug\IPM Service.exe
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\bin\Debug\IPM Service.pdb
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\bin\Debug\IPM Service.xml
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\IPMService.MonitoringService.resources
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\IPMService.Resources.resources
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\IPMService.ProjectInstaller.resources
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\IPMService.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\IPM Service.exe
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\IPM Service.xml
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\IPM Service.pdb
+D:\My.Net\System Core\IPM Tool\Services\Services\bin\Debug\IPM Service.exe.config
+D:\My.Net\System Core\IPM Tool\Services\Services\bin\Debug\IPM Service.exe
+D:\My.Net\System Core\IPM Tool\Services\Services\bin\Debug\IPM Service.pdb
+D:\My.Net\System Core\IPM Tool\Services\Services\bin\Debug\IPM Service.xml
+D:\My.Net\System Core\IPM Tool\Services\Services\obj\Debug\IPMService.MonitoringService.resources
+D:\My.Net\System Core\IPM Tool\Services\Services\obj\Debug\IPMService.Resources.resources
+D:\My.Net\System Core\IPM Tool\Services\Services\obj\Debug\IPMService.ProjectInstaller.resources
+D:\My.Net\System Core\IPM Tool\Services\Services\obj\Debug\IPMService.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\IPM Tool\Services\Services\obj\Debug\IPM Service.exe
+D:\My.Net\System Core\IPM Tool\Services\Services\obj\Debug\IPM Service.xml
+D:\My.Net\System Core\IPM Tool\Services\Services\obj\Debug\IPM Service.pdb
+D:\My.Net\System Core\System Updater\Services\Services\bin\Debug\IPM Service.exe.config
+D:\My.Net\System Core\System Updater\Services\Services\obj\Debug\IPM Service.exe
+D:\My.Net\System Core\System Updater\Services\Services\obj\Debug\IPM Service.xml
+D:\My.Net\System Core\System Updater\Services\Services\obj\Debug\IPM Service.pdb
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\SynchService.MonitoringService.resources
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\SynchService.Resources.resources
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\SynchService.ProjectInstaller.resources
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\IPMService.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\bin\Debug\Synch Service.exe.config
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\bin\Debug\Synch Service.exe
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\bin\Debug\Synch Service.pdb
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\bin\Debug\Synch Service.xml
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\Synch Service.exe
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\Synch Service.xml
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\Synch Service.pdb

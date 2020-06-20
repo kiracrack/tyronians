@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\My Files\My.Net\System Core\Tyronians\Synch Service\Services\bin\Debug\TGPServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\My Files\My.Net\System Core\Tyronians\Synch Service\Services\bin\Debug\TGPServices.exe
+   logfile = C:\My Files\My.Net\System Core\Tyronians\Synch Service\Services\bin\Debug\TGPServices.InstallLog
+Installing service TGPService...
+Service TGPService has been successfully installed.
+Creating EventLog source TGPService in log Application...
+Committing assembly 'C:\My Files\My.Net\System Core\Tyronians\Synch Service\Services\bin\Debug\TGPServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\My Files\My.Net\System Core\Tyronians\Synch Service\Services\bin\Debug\TGPServices.exe
+   logfile = C:\My Files\My.Net\System Core\Tyronians\Synch Service\Services\bin\Debug\TGPServices.InstallLog

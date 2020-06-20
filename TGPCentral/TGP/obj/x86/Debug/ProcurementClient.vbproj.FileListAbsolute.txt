@@ -1,0 +1,359 @@
+D:\Kiracrack\MY.NET\Procurement Client\Client\bin\Debug\MySql.Data.dll
+D:\Kiracrack\MY.NET\Procurement Client\Client\bin\Debug\System.Data.dll
+D:\Kiracrack\MY.NET\Procurement Client\Client\bin\Debug\System.Deployment.dll
+D:\Kiracrack\MY.NET\Procurement Client\Client\bin\Debug\System.dll
+D:\Kiracrack\MY.NET\Procurement Client\Client\bin\Debug\System.Drawing.dll
+D:\Kiracrack\MY.NET\Procurement Client\Client\bin\Debug\System.Management.dll
+D:\Kiracrack\MY.NET\Procurement Client\Client\bin\Debug\System.Messaging.dll
+D:\Kiracrack\MY.NET\Procurement Client\Client\bin\Debug\System.Windows.Forms.dll
+D:\Kiracrack\MY.NET\Procurement Client\Client\bin\Debug\System.Xml.dll
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSendMessage.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSystemInfo.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmColumnChooser.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmUserlogoff.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.MainForm.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmLogin.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.Resources.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.vbproj.GenerateResource.Cache
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.vbprojResolveAssemblyReference.cache
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmRequestType.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmGeneralSettings.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmRequestPurchased.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\bin\Debug\Procurement Client.exe.config
+D:\Kiracrack\MY.NET\Procurement Client\Client\bin\Debug\Procurement Client.exe
+D:\Kiracrack\MY.NET\Procurement Client\Client\bin\Debug\Procurement Client.pdb
+D:\Kiracrack\MY.NET\Procurement Client\Client\bin\Debug\Procurement Client.xml
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\Procurement Client.exe
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\Procurement Client.xml
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\Procurement Client.pdb
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmInventory.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmDataDownloader.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSelectParticular.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmRequestQuantitySelect.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmParticularRequest.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmGlobalSearch.resources
+D:\Kiracrack\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmStockoutsMain.resources
+E:\Procurement v2.0\Procurement Client\Client\bin\Debug\Procurement Client.exe.config
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\Procurement Client.exe
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\Procurement Client.xml
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\Procurement Client.pdb
+E:\Procurement v2.0\Procurement Client\Client\bin\Debug\Procurement Client.exe
+E:\Procurement v2.0\Procurement Client\Client\bin\Debug\Procurement Client.pdb
+E:\Procurement v2.0\Procurement Client\Client\bin\Debug\Procurement Client.xml
+E:\Procurement v2.0\Procurement Client\Client\bin\Debug\MySql.Data.dll
+E:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Data.dll
+E:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Deployment.dll
+E:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.dll
+E:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Drawing.dll
+E:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Management.dll
+E:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Messaging.dll
+E:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Windows.Forms.dll
+E:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Xml.dll
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.vbprojResolveAssemblyReference.cache
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmGlobalSearch.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmRequestQuantitySelect.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSelectParticular.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmParticularRequest.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmDataDownloader.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmGeneralSettings.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmRequestPurchased.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmRequestType.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSendMessage.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSystemInfo.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmColumnChooser.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmUserlogoff.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.MainForm.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmLogin.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmInventory.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.Resources.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSelectCurrentInventory.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmStockoutQuantitySelect.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmStockoutsMain.resources
+E:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.vbproj.GenerateResource.Cache
+F:\Procurement v2.0\Procurement Client\Client\bin\Debug\Procurement Client.exe.config
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\Procurement Client.exe
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\Procurement Client.xml
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\Procurement Client.pdb
+F:\Procurement v2.0\Procurement Client\Client\bin\Debug\Procurement Client.exe
+F:\Procurement v2.0\Procurement Client\Client\bin\Debug\Procurement Client.pdb
+F:\Procurement v2.0\Procurement Client\Client\bin\Debug\Procurement Client.xml
+F:\Procurement v2.0\Procurement Client\Client\bin\Debug\MySql.Data.dll
+F:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Data.dll
+F:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Deployment.dll
+F:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.dll
+F:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Drawing.dll
+F:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Management.dll
+F:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Messaging.dll
+F:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Windows.Forms.dll
+F:\Procurement v2.0\Procurement Client\Client\bin\Debug\System.Xml.dll
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.vbprojResolveAssemblyReference.cache
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmGlobalSearch.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmRequestQuantitySelect.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSelectParticular.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmParticularRequest.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmDataDownloader.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmGeneralSettings.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmRequestPurchased.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmRequestType.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSendMessage.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSystemInfo.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmColumnChooser.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmUserlogoff.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.MainForm.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmLogin.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmInventory.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.Resources.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSelectCurrentInventory.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmStockoutQuantitySelect.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmStockoutsMain.resources
+F:\Procurement v2.0\Procurement Client\Client\obj\x86\Debug\ProcurementClient.vbproj.GenerateResource.Cache
+E:\VB.net\Procurement Client\Client\bin\Debug\Procurement Client.exe.config
+E:\VB.net\Procurement Client\Client\obj\x86\Debug\Procurement Client.exe
+E:\VB.net\Procurement Client\Client\obj\x86\Debug\Procurement Client.xml
+E:\VB.net\Procurement Client\Client\obj\x86\Debug\Procurement Client.pdb
+E:\MY.NET\Procurement Client\Client\bin\Debug\Procurement Client.exe.config
+E:\MY.NET\Procurement Client\Client\bin\Debug\Procurement Client.exe
+E:\MY.NET\Procurement Client\Client\bin\Debug\Procurement Client.pdb
+E:\MY.NET\Procurement Client\Client\bin\Debug\Procurement Client.xml
+E:\MY.NET\Procurement Client\Client\bin\Debug\MySql.Data.dll
+E:\MY.NET\Procurement Client\Client\bin\Debug\System.Data.dll
+E:\MY.NET\Procurement Client\Client\bin\Debug\System.Deployment.dll
+E:\MY.NET\Procurement Client\Client\bin\Debug\System.dll
+E:\MY.NET\Procurement Client\Client\bin\Debug\System.Drawing.dll
+E:\MY.NET\Procurement Client\Client\bin\Debug\System.Management.dll
+E:\MY.NET\Procurement Client\Client\bin\Debug\System.Messaging.dll
+E:\MY.NET\Procurement Client\Client\bin\Debug\System.Windows.Forms.dll
+E:\MY.NET\Procurement Client\Client\bin\Debug\System.Xml.dll
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.vbprojResolveAssemblyReference.cache
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmGlobalSearch.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmRequestQuantitySelect.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSelectParticular.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmParticularRequest.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmDataDownloader.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmGeneralSettings.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmRequestPurchased.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmRequestType.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSendMessage.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSystemInfo.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmColumnChooser.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmUserlogoff.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.MainForm.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmLogin.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmInventory.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.Resources.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmSelectCurrentInventory.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmStockoutQuantitySelect.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.frmStockoutsMain.resources
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\ProcurementClient.vbproj.GenerateResource.Cache
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\Procurement Client.exe
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\Procurement Client.xml
+E:\MY.NET\Procurement Client\Client\obj\x86\Debug\Procurement Client.pdb
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmInventoryAdjust.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestManagement.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmManualInventory.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmInventoryQuantitySelect.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmInventorySelectParticular.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPurchasedItem.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestQuantitySelect.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSelectParticular.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmParticularRequest.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemUpdate.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmConnectionSetup.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmDataDownloader.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmGeneralSettings.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestPurchased.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestType.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSendMessage.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemInfo.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmColumnChooser.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmUserlogoff.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.MainForm.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmLogin.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmInventorySummary.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.Resources.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSelectCurrentInventory.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmStockoutQuantitySelect.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmStockoutsMain.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\ProcurementClient.vbproj.GenerateResource.Cache
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\Coffeecup Client.exe.config
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\Coffeecup Client.exe
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\Coffeecup Client.pdb
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\Coffeecup Client.xml
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\MySql.Data.dll
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\System.Data.dll
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\System.Deployment.dll
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\System.dll
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\System.Drawing.dll
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\System.Management.dll
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\System.Messaging.dll
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\System.Windows.Forms.dll
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\System.Xml.dll
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\Coffeecup Client.exe
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\Coffeecup Client.xml
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\Coffeecup Client.pdb
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmNotificationBox.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmChangePassword.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmAdvanceSearch.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemDownloader.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemDownloader_temporary.resources
+E:\MY.NET\CoffeeCup Client\Client\bin\Debug\Interop.Shell32.dll
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\Interop.Shell32.dll
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\ProcurementClient.vbproj.ResolveComReference.cache
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemUploader.resources
+E:\MY.NET\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemUploader_temp.resources
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\Coffeecup Client.exe.config
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\Coffeecup Client.exe
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\Coffeecup Client.pdb
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\Coffeecup Client.xml
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\MySql.Data.dll
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\System.Data.dll
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\System.Deployment.dll
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\System.dll
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\System.Drawing.dll
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\System.Management.dll
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\System.Messaging.dll
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\System.Xml.dll
+D:\My.Net\CoffeeCup Client\Client\bin\Debug\Interop.Shell32.dll
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\Interop.Shell32.dll
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\ProcurementClient.vbproj.ResolveComReference.cache
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmInventoryAdjust.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSendOfficialReceipt.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestManagement.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmManualInventory.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmInventoryQuantitySelect.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmInventorySelectParticular.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPurchasedItem.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestHistory.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestQuantitySelect.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSelectParticular.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmParticularRequest.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSPreviousTransactions.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSExpense.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSCheckToCashTransaction.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSCloseTransaction.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSChargetoClientAcct.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSEditLine.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSProductSearch.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSTransactionsHistory.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSClientInformation.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSOnHoldAndFloatTransaction.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSPaymentConfirmation.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPointOfSale.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSAdminConfirmation.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmFuelPumpReading.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemUploader_temp.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemUploader.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemDownloader.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmChangePassword.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmNotificationBox.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmAdvanceSearch.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemUpdate.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmConnectionSetup.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmDataDownloader.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestPurchased.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestType.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSendMessage.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemInfo.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmColumnChooser.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmUserlogoff.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.MainForm.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmLogin.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmInventorySummary.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.Resources.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmStockOutItem.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSelectCurrentInventory.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmStockoutQuantitySelect.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmStockoutsMain.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\ProcurementClient.vbproj.GenerateResource.Cache
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\Coffeecup Client.exe
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\Coffeecup Client.xml
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\Coffeecup Client.pdb
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSOtherTransaction.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmCorpForApproval_requisitions.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmCorpForApprovalList.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmCorpForApproval_PurchaseOrder.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmCorpForApproval_PaymentRequest.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmCorpForApproval_AccountsPayable.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmReceivedInventory_advance.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmReceivedType.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmReceivedInventory_normal.resources
+D:\My.Net\CoffeeCup Client\Client\obj\x86\Debug\ProcurementClient.vbprojResolveAssemblyReference.cache
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\Coffeecup Client.exe.config
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\Interop.Shell32.dll
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\ProcurementClient.vbproj.ResolveComReference.cache
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\Coffeecup Client.exe
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\Coffeecup Client.xml
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\Coffeecup Client.pdb
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\Coffeecup Client.exe
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\Coffeecup Client.pdb
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\Coffeecup Client.xml
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\MySql.Data.dll
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\System.Data.dll
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\System.Deployment.dll
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\System.dll
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\System.Drawing.dll
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\System.Management.dll
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\System.Messaging.dll
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\System.Xml.dll
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\bin\Debug\Interop.Shell32.dll
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\ProcurementClient.vbprojResolveAssemblyReference.cache
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmReceivedInventory_normal.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmReceivedInventory_advance.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmReceivedType.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmCorpForApproval_AccountsPayable.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmCorpForApproval_PaymentRequest.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmCorpForApproval_PurchaseOrder.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmCorpForApproval_requisitions.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmCorpForApprovalList.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmInventoryAdjust.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSendOfficialReceipt.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestManagement.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmManualInventory.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmInventoryQuantitySelect.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmInventorySelectParticular.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPurchasedItem.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestHistory.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestQuantitySelect.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSelectParticular.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmParticularRequest.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSOtherTransaction.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSPreviousTransactions.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSExpense.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSCheckToCashTransaction.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSCloseTransaction.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSChargetoClientAcct.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSEditLine.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSProductSearch.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSTransactionsHistory.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSClientInformation.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSOnHoldAndFloatTransaction.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSPaymentConfirmation.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPointOfSale.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmPOSAdminConfirmation.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmFuelPumpReading.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemUploader_temp.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemUploader.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemDownloader.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmChangePassword.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmNotificationBox.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmAdvanceSearch.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemUpdate.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmConnectionSetup.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmDataDownloader.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestPurchased.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmRequestType.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSendMessage.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSystemInfo.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmColumnChooser.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmUserlogoff.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.MainForm.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmLogin.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmInventorySummary.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.Resources.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmStockOutItem.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmSelectCurrentInventory.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmStockoutQuantitySelect.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\CoffeecupClient.frmStockoutsMain.resources
+D:\My.Net\Backup\Coffeecup 2015 (Caltex) v3.30\CoffeeCup Client\Client\obj\x86\Debug\ProcurementClient.vbproj.GenerateResource.Cache

@@ -1,0 +1,192 @@
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmhelpdesk.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmtechnical.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmemfunction.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmSettings.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmEmprofile.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmEmployees.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmcompose.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmAssign.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmOtsClose.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MainForm.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmFullControl.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmIssue.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmAsCall.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmTicketUpdates.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmOffices.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmWorksummary.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.UDTOOLLib.dll
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmAsCall.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmIssue.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmAssign.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmOtsClose.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmRelsoved.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmTicketUpdates.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmUpdateIssue.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmWorksummary.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmOffices.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmCompose.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmEmployees.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmEmprofile.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmSettings.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmemfunction.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmHelpdesk.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmTechnical.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmFullControl.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MainForm.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\ksi-winter\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmCompany.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmJobsummary.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmStatusafters.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmKsiweb.resources
+D:\Personal Files\Winter\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmDatacontrol.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmTranferarea.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmTicketReports.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmUserlogoff.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmJobsummary.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmAsCall.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmIssue.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmAssign.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmOtsClose.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmStatusafters.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmTicketUpdates.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmWorksummary.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmDataControl.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmCompany.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmKsiweb.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmOffices.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmCompose.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmEmployees.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmEmprofile.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmLogin.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmSettings.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmemfunction.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmHelpdesk.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmTechnical.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmFullControl.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.MainForm.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.Resources.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.rptSummary.resources
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\KSI Ticketing.exe.config
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\KSI Ticketing.exe
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\KSI Ticketing.pdb
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\KSI Ticketing.xml
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\KSI Ticketing.exe
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\KSI Ticketing.xml
+D:\Kiracrack\MY.NET\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\KSI Ticketing.pdb
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\KSI Ticketing.exe.config
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\KSI Ticketing.exe
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\KSI Ticketing.xml
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\KSI Ticketing.pdb
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\KSI Ticketing.exe
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\KSI Ticketing.pdb
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\bin\Debug\KSI Ticketing.xml
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmTranferarea.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmTicketReports.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmUserlogoff.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmJobsummary.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmAsCall.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmIssue.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmAssign.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmOtsClose.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmStatusafters.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmTicketUpdates.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmWorksummary.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmDataControl.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmCompany.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmKsiweb.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmOffices.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmCompose.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmEmployees.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmEmprofile.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmLogin.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmSettings.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmemfunction.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmHelpdesk.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmTechnical.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.frmFullControl.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.MainForm.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.Resources.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ticketing.rptSummary.resources
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kiracrack\MY.NET\Backup\winter ksi\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\bin\Debug\KSI Ticketing.exe.config
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\KSI Ticketing.exe
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\KSI Ticketing.xml
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\KSI Ticketing.pdb
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\bin\Debug\KSI Ticketing.exe
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\bin\Debug\KSI Ticketing.pdb
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\bin\Debug\KSI Ticketing.xml
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmTranferarea.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmTicketReports.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmUserlogoff.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmJobsummary.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmAsCall.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmIssue.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmAssign.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmOtsClose.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmStatusafters.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmTicketUpdates.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmWorksummary.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmDataControl.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmCompany.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmKsiweb.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmOffices.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmCompose.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmEmployees.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmEmprofile.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmLogin.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmSettings.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmemfunction.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmHelpdesk.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmTechnical.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.frmFullControl.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.MainForm.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.Resources.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\Ticketing.rptSummary.resources
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kiracrack\MY.NET\KSITicketing\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\bin\Debug\KSI Ticketing.exe.config
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\obj\x86\Debug\KSI Ticketing.exe
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\obj\x86\Debug\KSI Ticketing.xml
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\obj\x86\Debug\KSI Ticketing.pdb
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\obj\x86\Debug\Ticketing.frmOffices.resources
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\obj\x86\Debug\Ticketing.frmLogin.resources
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\obj\x86\Debug\Ticketing.frmFullControl.resources
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\obj\x86\Debug\Ticketing.Resources.resources
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\bin\Debug\KSI Ticketing.exe
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\bin\Debug\KSI Ticketing.pdb
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\bin\Debug\KSI Ticketing.xml
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\obj\x86\Debug\Ticketing.frmMembershipForm.resources
+D:\Kiracrack\MY.NET\tyronians\WindowsApplication1\obj\x86\Debug\Ticketing.frmMasterList.resources

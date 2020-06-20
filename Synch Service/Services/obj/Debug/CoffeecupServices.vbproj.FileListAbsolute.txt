@@ -1,0 +1,57 @@
+D:\My.Net\Coffeecup Services\Services\bin\Debug\CoffeecupServices.exe.config
+D:\My.Net\Coffeecup Services\Services\bin\Debug\CoffeecupServices.exe
+D:\My.Net\Coffeecup Services\Services\bin\Debug\CoffeecupServices.pdb
+D:\My.Net\Coffeecup Services\Services\bin\Debug\CoffeecupServices.xml
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.CoffeecupServices.resources
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.Resources.resources
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.ProjectInstaller.resources
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.vbproj.GenerateResource.Cache
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.exe
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.xml
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.pdb
+D:\My.Net\System Core\Coffeecup Services\Services\bin\Debug\CoffeecupServices.exe.config
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.exe
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.xml
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.pdb
+D:\My.Net\System Core\Coffeecup Services\Services\bin\Debug\CoffeecupServices.exe
+D:\My.Net\System Core\Coffeecup Services\Services\bin\Debug\CoffeecupServices.pdb
+D:\My.Net\System Core\Coffeecup Services\Services\bin\Debug\CoffeecupServices.xml
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.CoffeecupServices.resources
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.Resources.resources
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.ProjectInstaller.resources
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\bin\Debug\CoffeecupServices.exe.config
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.exe
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.xml
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.pdb
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\bin\Debug\CoffeecupServices.exe
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\bin\Debug\CoffeecupServices.pdb
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\bin\Debug\CoffeecupServices.xml
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.CoffeecupServices.resources
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.Resources.resources
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.ProjectInstaller.resources
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\Mysql Central Backup\Services\Services\bin\Debug\MySQLBackupService.exe.config
+D:\My.Net\System Core\Mysql Central Backup\Services\Services\bin\Debug\MySQLBackupService.exe
+D:\My.Net\System Core\Mysql Central Backup\Services\Services\bin\Debug\MySQLBackupService.pdb
+D:\My.Net\System Core\Mysql Central Backup\Services\Services\bin\Debug\MySQLBackupService.xml
+D:\My.Net\System Core\Mysql Central Backup\Services\Services\obj\Debug\MySQLBackupService.Resources.resources
+D:\My.Net\System Core\Mysql Central Backup\Services\Services\obj\Debug\MySQLBackupService.ProjectInstaller.resources
+D:\My.Net\System Core\Mysql Central Backup\Services\Services\obj\Debug\CoffeecupServices.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\Mysql Central Backup\Services\Services\obj\Debug\MySQLBackupService.exe
+D:\My.Net\System Core\Mysql Central Backup\Services\Services\obj\Debug\MySQLBackupService.xml
+D:\My.Net\System Core\Mysql Central Backup\Services\Services\obj\Debug\MySQLBackupService.pdb
+D:\My.Net\System Core\Mysql Central Backup\Services\Services\obj\Debug\MySQLBackupService.MySQLBackup.resources
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\bin\Debug\IPMonitoringService.exe.config
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\bin\Debug\IPMonitoringService.exe
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\bin\Debug\IPMonitoringService.pdb
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\bin\Debug\IPMonitoringService.xml
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\CoffeecupServices.vbprojResolveAssemblyReference.cache
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\IPMonitoringService.MySQLBackup.resources
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\IPMonitoringService.Resources.resources
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\IPMonitoringService.ProjectInstaller.resources
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\CoffeecupServices.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\IPMonitoringService.exe
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\IPMonitoringService.xml
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\obj\Debug\IPMonitoringService.pdb
+D:\My.Net\System Core\IP Address Monitoring\Services\Services\bin\Debug\IPM Service.exe.config

@@ -1,0 +1,41 @@
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\bin\Debug\Synch Service.exe.config
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\bin\Debug\Synch Service.exe
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\bin\Debug\Synch Service.pdb
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\bin\Debug\Synch Service.xml
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\SynchService.MonitoringService.resources
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\SynchService.Resources.resources
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\SynchService.ProjectInstaller.resources
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\SynchServer.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\Synch Service.exe
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\Synch Service.xml
+C:\My Files\My.Net\System Core\Barangay\Applications\Synch Service\Services\obj\Debug\Synch Service.pdb
+C:\My Files\My.Net\System Core\Barangay System\Applications\Synch Service\Services\bin\Debug\Synch Service.exe.config
+C:\My Files\My.Net\System Core\Barangay System\Applications\Synch Service\Services\obj\Debug\Synch Service.exe
+C:\My Files\My.Net\System Core\Barangay System\Applications\Synch Service\Services\obj\Debug\Synch Service.xml
+C:\My Files\My.Net\System Core\Barangay System\Applications\Synch Service\Services\obj\Debug\Synch Service.pdb
+C:\My Files\My.Net\System Core\STL\Services\Synch Service\Services\bin\Debug\STL Service.exe.config
+C:\My Files\My.Net\System Core\STL\Services\Synch Service\Services\bin\Debug\STL Service.exe
+C:\My Files\My.Net\System Core\STL\Services\Synch Service\Services\bin\Debug\STL Service.pdb
+C:\My Files\My.Net\System Core\STL\Services\Synch Service\Services\bin\Debug\STL Service.xml
+C:\My Files\My.Net\System Core\STL\Services\Synch Service\Services\obj\Debug\STLService.MonitoringService.resources
+C:\My Files\My.Net\System Core\STL\Services\Synch Service\Services\obj\Debug\STLService.Resources.resources
+C:\My Files\My.Net\System Core\STL\Services\Synch Service\Services\obj\Debug\STLService.ProjectInstaller.resources
+C:\My Files\My.Net\System Core\STL\Services\Synch Service\Services\obj\Debug\SynchServer.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\STL\Services\Synch Service\Services\obj\Debug\STL Service.exe
+C:\My Files\My.Net\System Core\STL\Services\Synch Service\Services\obj\Debug\STL Service.xml
+C:\My Files\My.Net\System Core\STL\Services\Synch Service\Services\obj\Debug\STL Service.pdb
+C:\My Files\My.Net\System Core\STL\STL Services\Synch Service\Services\bin\Debug\STL Service.exe.config
+C:\My Files\My.Net\System Core\STL\STL Services\Synch Service\Services\bin\Debug\STL Service.exe
+C:\My Files\My.Net\System Core\STL\STL Services\Synch Service\Services\bin\Debug\STL Service.pdb
+C:\My Files\My.Net\System Core\STL\STL Services\Synch Service\Services\bin\Debug\STL Service.xml
+C:\My Files\My.Net\System Core\STL\STL Services\Synch Service\Services\obj\Debug\STLService.MonitoringService.resources
+C:\My Files\My.Net\System Core\STL\STL Services\Synch Service\Services\obj\Debug\STLService.Resources.resources
+C:\My Files\My.Net\System Core\STL\STL Services\Synch Service\Services\obj\Debug\STLService.ProjectInstaller.resources
+C:\My Files\My.Net\System Core\STL\STL Services\Synch Service\Services\obj\Debug\SynchServer.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\STL\STL Services\Synch Service\Services\obj\Debug\STL Service.exe
+C:\My Files\My.Net\System Core\STL\STL Services\Synch Service\Services\obj\Debug\STL Service.xml
+C:\My Files\My.Net\System Core\STL\STL Services\Synch Service\Services\obj\Debug\STL Service.pdb
+C:\My Files\My.Net\System Core\Tyronians\Synch Service\Services\bin\Debug\STL Service.exe.config
+C:\My Files\My.Net\System Core\Tyronians\Synch Service\Services\obj\Debug\STL Service.exe
+C:\My Files\My.Net\System Core\Tyronians\Synch Service\Services\obj\Debug\STL Service.xml
+C:\My Files\My.Net\System Core\Tyronians\Synch Service\Services\obj\Debug\STL Service.pdb

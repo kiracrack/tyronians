@@ -1,0 +1,569 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BFF256BF-4E62-4124-BD52-A4CAF81924B4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Tyronians.My.MyApplication</StartupObject>
+    <RootNamespace>Tyronians</RootNamespace>
+    <AssemblyName>Tyronians Central</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Tyronians Central.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Tyronians Central.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>tgp.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Office.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.PivotGrid.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Pdf.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v18.1.Export, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Sparkline.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v18.1.UI, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v18.1.Wizard, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGauges.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.CodeParser.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v18.1.Extensions, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.0.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Management">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Messaging">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accounting\frmAccountTitleLedger.Designer.vb">
+      <DependentUpon>frmAccountTitleLedger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accounting\frmAccountTitleLedger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounting\GL Settings\frmChartOfAccount.Designer.vb">
+      <DependentUpon>frmChartOfAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accounting\GL Settings\frmChartOfAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounting\GL Settings\frmGLGroup.Designer.vb">
+      <DependentUpon>frmGLGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accounting\GL Settings\frmGLGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounting\GL Settings\frmGLItem.Designer.vb">
+      <DependentUpon>frmGLItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accounting\GL Settings\frmGLItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounting\Accounting.Designer.vb">
+      <DependentUpon>Accounting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accounting\Accounting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounting\Post Transaction\frmPostingPredefineGL.Designer.vb">
+      <DependentUpon>frmPostingPredefineGL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accounting\Post Transaction\frmPostingPredefineGL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounting\Post Transaction\frmPostTransaction.Designer.vb">
+      <DependentUpon>frmPostTransaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accounting\Post Transaction\frmPostTransaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounting\Post Transaction\frmTrialBalance.Designer.vb">
+      <DependentUpon>frmTrialBalance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accounting\Post Transaction\frmTrialBalance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounting\Transaction Settings\frmTrnAddItem.Designer.vb">
+      <DependentUpon>frmTrnAddItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accounting\Transaction Settings\frmTrnAddItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounting\Transaction Settings\frmTrnGroup.Designer.vb">
+      <DependentUpon>frmTrnGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accounting\Transaction Settings\frmTrnGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounting\Transaction Settings\frmTrnSettingsItems.Designer.vb">
+      <DependentUpon>frmTrnSettingsItems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accounting\Transaction Settings\frmTrnSettingsItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounting\Transaction Settings\frmTrnTitle.Designer.vb">
+      <DependentUpon>frmTrnTitle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accounting\Transaction Settings\frmTrnTitle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Auto Updater\AutoUpdater.vb" />
+    <Compile Include="Auto Updater\frmSystemDownloader.Designer.vb">
+      <DependentUpon>frmSystemDownloader.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Auto Updater\frmSystemDownloader.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Card\rptIDBack.designer.vb">
+      <DependentUpon>rptIDBack.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Card\rptIDBack.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Card\rptIDFront.designer.vb">
+      <DependentUpon>rptIDFront.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Card\rptIDFront.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmLocalChapter.Designer.vb">
+      <DependentUpon>frmLocalChapter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLocalChapter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintIDSelection.Designer.vb">
+      <DependentUpon>frmPrintIDSelection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintIDSelection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWelcomeMessage.Designer.vb">
+      <DependentUpon>frmWelcomeMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmWelcomeMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMembershipProfile.Designer.vb">
+      <DependentUpon>frmMembershipProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMembershipProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGlobalSearch.Designer.vb">
+      <DependentUpon>frmGlobalSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGlobalSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLicenseAgreement.Designer.vb">
+      <DependentUpon>frmLicenseAgreement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLicenseAgreement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMembershipForm.Designer.vb">
+      <DependentUpon>frmMembershipForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMembershipForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddChapter.Designer.vb">
+      <DependentUpon>frmAddChapter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddChapter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insurance\frmBatchCollection.Designer.vb">
+      <DependentUpon>frmBatchCollection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Insurance\frmBatchCollection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insurance\frmCollectionReports.Designer.vb">
+      <DependentUpon>frmCollectionReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Insurance\frmCollectionReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\ConectionSetup.vb" />
+    <Compile Include="Module\DataGridViewPrinter.vb" />
+    <Compile Include="Module\IDGenerator.vb" />
+    <Compile Include="Module\Library.vb" />
+    <Compile Include="Module\securityLevel.vb" />
+    <Compile Include="Module\SercureData.vb" />
+    <Compile Include="Module\UpdateEngine.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Accounting\frmAccountTitleLedger.resx">
+      <DependentUpon>frmAccountTitleLedger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounting\GL Settings\frmChartOfAccount.resx">
+      <DependentUpon>frmChartOfAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounting\GL Settings\frmGLGroup.resx">
+      <DependentUpon>frmGLGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounting\GL Settings\frmGLItem.resx">
+      <DependentUpon>frmGLItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounting\Accounting.resx">
+      <DependentUpon>Accounting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounting\Post Transaction\frmPostingPredefineGL.resx">
+      <DependentUpon>frmPostingPredefineGL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounting\Post Transaction\frmPostTransaction.resx">
+      <DependentUpon>frmPostTransaction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounting\Post Transaction\frmTrialBalance.resx">
+      <DependentUpon>frmTrialBalance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounting\Transaction Settings\frmTrnAddItem.resx">
+      <DependentUpon>frmTrnAddItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounting\Transaction Settings\frmTrnGroup.resx">
+      <DependentUpon>frmTrnGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounting\Transaction Settings\frmTrnSettingsItems.resx">
+      <DependentUpon>frmTrnSettingsItems.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounting\Transaction Settings\frmTrnTitle.resx">
+      <DependentUpon>frmTrnTitle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Auto Updater\frmSystemDownloader.resx">
+      <DependentUpon>frmSystemDownloader.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Card\rptIDBack.resx">
+      <DependentUpon>rptIDBack.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Card\rptIDFront.resx">
+      <DependentUpon>rptIDFront.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLocalChapter.resx">
+      <DependentUpon>frmLocalChapter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintIDSelection.resx">
+      <DependentUpon>frmPrintIDSelection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWelcomeMessage.resx">
+      <DependentUpon>frmWelcomeMessage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMembershipProfile.resx">
+      <DependentUpon>frmMembershipProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGlobalSearch.resx">
+      <DependentUpon>frmGlobalSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLicenseAgreement.resx">
+      <DependentUpon>frmLicenseAgreement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMembershipForm.resx">
+      <DependentUpon>frmMembershipForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddChapter.resx">
+      <DependentUpon>frmAddChapter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insurance\frmBatchCollection.resx">
+      <DependentUpon>frmBatchCollection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insurance\frmCollectionReports.resx">
+      <DependentUpon>frmCollectionReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.CustomInstaller.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlBulkLoader.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlClientFactory.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlCommand.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlCommandBuilder.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlConnection.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlConnectionStringBuilder.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlDataAdapter.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlDataReader.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlError.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlException.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlHelper.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlInfoMessageEventArgs.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlInfoMessageEventHandler.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlParameter.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlParameterCollection.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlRowUpdatedEventArgs.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlRowUpdatedEventHandler.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlRowUpdatingEventArgs.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlRowUpdatingEventHandler.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlScript.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlScriptErrorEventArgs.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlScriptErrorEventHandler.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlScriptEventArgs.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlStatementExecutedEventHandler.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.MySqlTransaction.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.MySqlClient.Properties.Resources.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.Types.MySqlConversionException.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.Types.MySqlDateTime.datasource" />
+    <None Include="My Project\DataSources\MySql.Data.Types.MySqlDecimal.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notebook--minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blankimg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information-balloon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-continue-090.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image--minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ui-scroll-pane-image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Auto Updater\Note.txt" />
+    <Content Include="ico.ico" />
+    <None Include="Resources\Name.png" />
+    <None Include="Resources\notebook--arrow.png" />
+    <None Include="Resources\notebook--plus.png" />
+    <None Include="Resources\folder-stand.png" />
+    <None Include="Resources\folder-tree.png" />
+    <None Include="Resources\folders-stack.png" />
+    <Content Include="tgp.ico" />
+    <None Include="Resources\tgp logo.jpg" />
+    <None Include="Resources\tick.png" />
+    <None Include="Resources\notebook--pencil.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

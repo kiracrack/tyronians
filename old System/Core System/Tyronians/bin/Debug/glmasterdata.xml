@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <tblglobalmembers>
+    <Membership_x0020_ID>BW2015-1201D-100000002-A</Membership_x0020_ID>
+    <Fullname>BUGAHOD, WINMARK S</Fullname>
+    <Gender>Male</Gender>
+    <Nickname>MAKMAK</Nickname>
+    <Birth_x0020_Date>January 14, 2016</Birth_x0020_Date>
+    <Birth_x0020_Place>DIPOLOG</Birth_x0020_Place>
+    <Permanent_x0020_Address>DIPOLOG</Permanent_x0020_Address>
+    <Current_x0020_Address>DIPOLOG</Current_x0020_Address>
+    <Special_x0020_Skills>DULA</Special_x0020_Skills>
+    <Baptized_x0020_Name>MAKY BOY</Baptized_x0020_Name>
+    <Date_x0020_Survived>December 01, 2015</Date_x0020_Survived>
+    <Ritual>YES</Ritual>
+    <ID_x0020_Card>YES</ID_x0020_Card>
+    <Mobile_x0020_Number>09177827722</Mobile_x0020_Number>
+    <Home_x0020_Number />
+    <Email />
+    <Emergency_x0020_Contact_x0020_Person />
+    <Emergency_x0020_Contact_x0020_Number />
+    <Emergency_x0020_Contact_x0020_Address />
+    <Chapter>DIPOLOG CHAPTER</Chapter>
+    <Area>MINDANAO AREA</Area>
+    <Registered_x0020_by>WINTER BUGAHOD</Registered_x0020_by>
+    <Date_x0020_Registered>January 14, 2016 09:24:30 PM</Date_x0020_Registered>
+    <Member_x0020_Status>ACTIVE</Member_x0020_Status>
+  </tblglobalmembers>
+  <tblglobalmembers>
+    <Membership_x0020_ID>BW2003-0101D-100000001-A</Membership_x0020_ID>
+    <Fullname>BUGAHOD, WINTER SEVILLAS</Fullname>
+    <Gender>Male</Gender>
+    <Nickname>WINTER</Nickname>
+    <Birth_x0020_Date>December 13, 1987</Birth_x0020_Date>
+    <Birth_x0020_Place>DIPOLOG CITY</Birth_x0020_Place>
+    <Permanent_x0020_Address>POB PONOT JOSE DALMAN</Permanent_x0020_Address>
+    <Current_x0020_Address>DIPOLOG CITY</Current_x0020_Address>
+    <Special_x0020_Skills>PROGRAMMING</Special_x0020_Skills>
+    <Baptized_x0020_Name>BANGKAY</Baptized_x0020_Name>
+    <Date_x0020_Survived>January 01, 2003</Date_x0020_Survived>
+    <Ritual>YES</Ritual>
+    <ID_x0020_Card>YES</ID_x0020_Card>
+    <Mobile_x0020_Number>+639399023750</Mobile_x0020_Number>
+    <Home_x0020_Number>+639177263158</Home_x0020_Number>
+    <Email>winterbugahod@yahoo.com</Email>
+    <Emergency_x0020_Contact_x0020_Person>DEGIEL YAP</Emergency_x0020_Contact_x0020_Person>
+    <Emergency_x0020_Contact_x0020_Number>+63999999999999</Emergency_x0020_Contact_x0020_Number>
+    <Emergency_x0020_Contact_x0020_Address>DEGIELYAP@YAHOO.COM</Emergency_x0020_Contact_x0020_Address>
+    <Chapter>DIPOLOG CHAPTER</Chapter>
+    <Area>MINDANAO AREA</Area>
+    <Registered_x0020_by>WINTER BUGAHOD</Registered_x0020_by>
+    <Date_x0020_Registered>July 12, 2013 07:16:11 PM</Date_x0020_Registered>
+    <Edited_x0020_by>WINTER BUGAHOD</Edited_x0020_by>
+    <Date_x0020_Edited>January 14, 2016 09:18:16 PM</Date_x0020_Edited>
+    <Member_x0020_Status>INACTIVE</Member_x0020_Status>
+  </tblglobalmembers>
+</NewDataSet>
